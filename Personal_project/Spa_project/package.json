@@ -1,0 +1,19 @@
+{
+  "name": "spa_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-calendar": "^0.1.5",
+    "node-schedule": "^2.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "description": ""
+}
